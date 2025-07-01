@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: block;
+    width: 100%;
+    background-color: lightgray;
+    height: 50px;
+}
+nav{
+    display: inline;
+    width: auto;
+    margin: 0 0 0 20px;
+}
+a{
+    margin: 0 5px 0 5px;
+}
+
+
+main{
+    display: inline-block;
+}
+h2{
+    margin-left: 25px;
+}
+
+.Desc{
+    position: relative;
+    left: 25px;
+    width: 40%;
+    vertical-align: top;
+    display: inline-block;
+}
+img{
+    vertical-align: top;
+    margin: 0 0 0 25px;
+    height: 320px;
+}
+.Logo{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    vertical-align: center;
+}
